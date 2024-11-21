@@ -35,7 +35,8 @@ body {
 /* Button Styling */
 .container .btn {
   display: flex;
-  gap: 25px;
+  gap: 20px;
+  margin-top: 20px; /* Adds spacing between the content and the buttons */
 }
 
 .btn a {
