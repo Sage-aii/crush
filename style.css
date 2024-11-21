@@ -24,11 +24,14 @@
     margin: 20px;
   }
   
-  .container .tenor-gif-embed {
-    max-width: 200px;
-  }
-  
-  .container .btn {
+.container img {
+  width: 100%;
+  max-width: 300px;
+  height: auto;
+  border-radius: 10px; /* Optional styling */
+}
+
+.container .btn {
     display: flex;
     gap: 25px;
   }
