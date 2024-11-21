@@ -25,9 +25,9 @@
   }
   
 .container video {
-  width: 100%;
-  max-width: 300px;
-  height: auto;
+  width: 60%;
+  max-width: 100    px;
+  height: 50;
   border-radius: 10px; /* Optional styling */
 }
 
